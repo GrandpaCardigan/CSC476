@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Dummy",
     "\\MyFirstGitHubApplication",
-    "\\MyFirstGitHubApplication\\ConsoleApp1"
+    "\\MyFirstGitHubApplication\\ConsoleApp1",
+    "\\TestEmployee"
   ],
-  "SelectedNode": "\\MyFirstGitHubApplication\\MyFirstGitHubApplication.sln",
+  "SelectedNode": "\\TestEmployee\\TestEmployee.cs",
   "PreviewInSolutionExplorer": false
 }

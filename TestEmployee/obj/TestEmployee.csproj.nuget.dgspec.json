@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nicholas Kier\\source\\repos\\CSC476\\TestEmployee\\TestEmployee.csproj": {}
+    "C:\\Users\\Nicholas Kier\\Source\\Repos\\CSC476\\TestEmployee\\TestEmployee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nicholas Kier\\source\\repos\\CSC476\\TestEmployee\\TestEmployee.csproj": {
+    "C:\\Users\\Nicholas Kier\\Source\\Repos\\CSC476\\TestEmployee\\TestEmployee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nicholas Kier\\source\\repos\\CSC476\\TestEmployee\\TestEmployee.csproj",
+        "projectUniqueName": "C:\\Users\\Nicholas Kier\\Source\\Repos\\CSC476\\TestEmployee\\TestEmployee.csproj",
         "projectName": "TestEmployee",
-        "projectPath": "C:\\Users\\Nicholas Kier\\source\\repos\\CSC476\\TestEmployee\\TestEmployee.csproj",
+        "projectPath": "C:\\Users\\Nicholas Kier\\Source\\Repos\\CSC476\\TestEmployee\\TestEmployee.csproj",
         "packagesPath": "C:\\Users\\Nicholas Kier\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nicholas Kier\\source\\repos\\CSC476\\TestEmployee\\obj\\",
+        "outputPath": "C:\\Users\\Nicholas Kier\\Source\\Repos\\CSC476\\TestEmployee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

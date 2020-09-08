@@ -1,0 +1,12 @@
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\obj\Debug\netcoreapp3.1\TestEmployee.AssemblyInfoInputs.cache
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\obj\Debug\netcoreapp3.1\TestEmployee.AssemblyInfo.cs
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\obj\Debug\netcoreapp3.1\TestEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\bin\Debug\netcoreapp3.1\TestEmployee.exe
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\bin\Debug\netcoreapp3.1\TestEmployee.deps.json
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\bin\Debug\netcoreapp3.1\TestEmployee.runtimeconfig.json
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\bin\Debug\netcoreapp3.1\TestEmployee.runtimeconfig.dev.json
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\bin\Debug\netcoreapp3.1\TestEmployee.dll
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\bin\Debug\netcoreapp3.1\TestEmployee.pdb
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\obj\Debug\netcoreapp3.1\TestEmployee.dll
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\obj\Debug\netcoreapp3.1\TestEmployee.pdb
+C:\Users\Nicholas Kier\Source\Repos\CSC476\TestEmployee\obj\Debug\netcoreapp3.1\TestEmployee.genruntimeconfig.cache
