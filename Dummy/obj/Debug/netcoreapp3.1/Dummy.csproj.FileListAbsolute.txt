@@ -1,0 +1,12 @@
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\bin\Debug\netcoreapp3.1\Dummy.exe
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\bin\Debug\netcoreapp3.1\Dummy.deps.json
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\bin\Debug\netcoreapp3.1\Dummy.runtimeconfig.json
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\bin\Debug\netcoreapp3.1\Dummy.runtimeconfig.dev.json
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\bin\Debug\netcoreapp3.1\Dummy.dll
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\bin\Debug\netcoreapp3.1\Dummy.pdb
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\obj\Debug\netcoreapp3.1\Dummy.AssemblyInfoInputs.cache
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\obj\Debug\netcoreapp3.1\Dummy.AssemblyInfo.cs
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\obj\Debug\netcoreapp3.1\Dummy.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\obj\Debug\netcoreapp3.1\Dummy.dll
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\obj\Debug\netcoreapp3.1\Dummy.pdb
+C:\Users\Nicholas Kier\source\repos\CSC476\Dummy\obj\Debug\netcoreapp3.1\Dummy.genruntimeconfig.cache
